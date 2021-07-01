@@ -1,0 +1,170 @@
+{
+  "main": {
+    "name": "Ali Haiden",
+    "occupation": "Senior Web Developer",
+    "description": "I am adept in all stages of advanced web development with 5 years of hands-on experience in the software industry.",
+    "image": "Ali Haider.png",
+    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "drontzasp@gmail.com",
+    "phone": "(923) 006-0466",
+    "address": {
+      "street": "House 50 Naveed Block Asad Park",
+      "city": "Sargodha",
+      "state": "Punjab",
+      "zip": "40100"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Senior-dev-523",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "These are my professional stacks:",
+    "education": [
+      {
+        "school": "Punjab Group of Colleges",
+        "degree": "Masters in Beer tasting",
+        "graduated": "2014 - 2016",
+        "description": "I studied Entry-level web development. I have made small websites using HTML, CSS, JQuery, and Bootstrap."
+      },
+      {
+        "school": "University of Sargodha",
+        "degree": "Bachelor's Degree in Computer Science",
+        "graduated": "2016 - 2020",
+        "description": "I had a professional education at university and I studied a lot of stacks by myself. such as Javascript, Typescript, React.js, Angular, Vue.js, Node.js, MySQL. I also have experience working as a web developer by being hired remotely by some small companies."
+      }
+    ],
+    "work": [
+      {
+        "company": "Nangiana & Co",
+        "title": "Web Developer and Designer",
+        "years": "January 2019 - May 2021",
+        "description": "Worked as a effective and positive team member to code, test, report, and launch operations. Managed front-end and back-end development. Successfully identified, diagnosed, and fixed website problems, including broken links, typographical errors, and formatting issues. Helped to achieve a consistent look and visual theme across the website by promoting uniform fonts, formatting, images, and layout."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Angular",
+        "level": "90%"
+      },
+      {
+        "name": "React.js",
+        "level": "80%"
+      },
+      {
+        "name": "Vue.js",
+        "level": "80%"
+      },
+      {
+        "name": "Node.js",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "70%"
+      },
+      {
+        "name": "MySQL, MongoDB, PostgreSQL",
+        "level": "80%"
+      },
+      {
+        "name": "HTML, CSS, Bootstrap",
+        "level": "90%"
+      },
+      {
+        "name": "Stripe, PayPal",
+        "level": "70%"
+      },
+      {
+        "name": "Github, Gitlab, Bitbucket",
+        "level": "70%"
+      },
+      {
+        "name": "AWS, Heroku, Docker",
+        "level": "60%"
+      },
+      {
+        "name": "Socket.io, GraphQL ",
+        "level": "40%"
+      },
+      {
+        "name": "Laravel",
+        "level": "60%"
+      },
+      {
+        "name": "Firebase",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Mi People",
+        "category": "A social network where every Post funding for nonprofit organizations around the Globe.",
+        "image": "1.png",
+        "url": "https://mipeople.org"
+      },
+      {
+        "title": "Online hardware store",
+        "category": "Website that find the best deals in the online hardware store",
+        "image": "2.png",
+        "url": "https://www.ferrepat.com"
+      },
+      {
+        "title": "Sport Website",
+        "category": "Website that organize the sport life",
+        "image": "3.png",
+        "url": "https://sportunity.com/"
+      },
+      {
+        "title": "Call of Duty Warzone",
+        "category": "Call of Duty Warzone tournament website",
+        "image": "4.png",
+        "url": "http://ggaming.ddns.net"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
