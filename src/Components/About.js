@@ -15,6 +15,7 @@ class About extends Component {
       var phone = this.props.data.phone;
       var email = this.props.data.email;
       var resumeDownload = this.props.data.resumedownload;
+      var skype = this.props.data.skype;
     }
 
     return (
@@ -41,7 +42,8 @@ class About extends Component {
                     {city} {state}, {zip}
                   </span><br />
                   <span>{phone}</span><br />
-                  <span>{email}</span>
+                  <span>{email}</span><br />
+                  <span>Skype Address: {skype}</span>
                 </p>
               </div>
               <div className="columns download">

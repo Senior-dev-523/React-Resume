@@ -14,33 +14,29 @@
       "state": "Punjab",
       "zip": "40100"
     },
+    "skype": "live:.cid.ab4bed2698401c89",
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
-        "name": "facebook",
-        "url": "http://facebook.com",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
+        "name": "upwork",
+        "url": "https://www.upwork.com/freelancers/~016adcb99392331d4c",
+        "className": "fa fa-info"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/ali-haider-176024216/",
         "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "http://instagram.com",
-        "className": "fa fa-instagram"
       },
       {
         "name": "github",
         "url": "https://github.com/Senior-dev-523",
         "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "/",
+        "className": "fa fa-skype"
       }
     ]
   },
